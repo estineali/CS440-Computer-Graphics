@@ -10,4 +10,4 @@ Repository for my work in the Computer Graphics, guided by the course structure
     4. Flight Simulator (JavaScript)
     5. Basic Ray Tracer (C++)
     6. Advanced Ray Tracer (C++)
-    7. (Tentative) Animation implementation in Rust
+    7. (Tentative) Animator (Rust)
