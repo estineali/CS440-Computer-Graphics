@@ -1,4 +1,5 @@
-# CS440 Computer Graphics 
+# CS440 Computer Graphics
+    Dr. Waqar Saleem
     Fall 2020
     Habib University
 Repository for my work in the Computer Graphics, guided by the course structure 
